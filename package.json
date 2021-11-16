@@ -1,0 +1,19 @@
+{
+  "name": "spectre-foundations",
+  "version": "1.0.0",
+  "description": "Spectre testing variables and molecules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firstasianinspace/dstesting.git"
+  },
+  "author": "Aleksandr Rabdaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firstasianinspace/dstesting/issues"
+  },
+  "homepage": "https://github.com/Firstasianinspace/dstesting#readme"
+}
